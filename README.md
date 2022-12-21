@@ -1,2 +1,7 @@
-# BinarySearchTree
-Solo project for final sprint in semester 4 of Software Development
+Last updated:
+
+Written by:
+
+Written for:
+
+Created on: December 20 2022
